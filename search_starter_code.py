@@ -1,3 +1,6 @@
+
+#!/usr/bin/env python3
+
 import streamlit as st
 import numpy as np
 import numpy.linalg as la
